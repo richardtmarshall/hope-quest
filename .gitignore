@@ -1,0 +1,6 @@
+# .gitignore
+.env
+node_modules
+
+# Mac-specific local file
+.DS_Store
